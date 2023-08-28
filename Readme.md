@@ -1,5 +1,5 @@
 # Sequential DNA-FISH analysis
-This Github page includes the data files that were used to run the DNA-FISH analysis for the publication entitled 'Compact topologies underlie long-range Shh enhancer-promoter communication in the embryonic forebrain', by Harke et al.
+This Github page includes the data files that were used to run the DNA-FISH analysis for the publication entitled 'Diverse compact topologies govern long-range _Shh_ enhancer-promoter communication in the embryonic forebrain', by Harke et al.
 
 ## System requirements
 The files were tested in MATLAB R2022b (The MathWorks, USA), on a i7-12700H 2.30 GHz (32 GB RAM) laptop running Windows 64-bit. The code was not tested in another version of MATLAB.
